@@ -29,6 +29,7 @@
     --bs-navbar-padding-x: 0.1rem;
     --bs-navbar-padding-y: 0;
     --bs-navbar-brand-color: white;
+    --bs-navbar-brand-color: #6610f2;
     --bs-navbar-brand-hover-color: white;
 }
 
@@ -38,6 +39,7 @@
     --bs-nav-link-padding-y: 1rem;
     --bs-nav-link-color: white;
     --bs-nav-link-hover-color: white;
+    
 
 }
 
